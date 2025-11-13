@@ -73,8 +73,8 @@ IntroSwiftApp/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/IntroSwiftApp.git
-   cd IntroSwiftApp
+   git clone git@github.com:dsnarne/MenuUI.git
+   cd MenuUI
    ```
 
 2. **Open in Xcode**
